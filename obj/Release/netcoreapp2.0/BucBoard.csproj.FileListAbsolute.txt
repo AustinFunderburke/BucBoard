@@ -1,0 +1,36 @@
+C:\Users\Daniel\Desktop\BucBoard\BucBoard\bin\Release\netcoreapp2.0\BucBoard.deps.json
+C:\Users\Daniel\Desktop\BucBoard\BucBoard\bin\Release\netcoreapp2.0\BucBoard.runtimeconfig.json
+C:\Users\Daniel\Desktop\BucBoard\BucBoard\bin\Release\netcoreapp2.0\BucBoard.runtimeconfig.dev.json
+C:\Users\Daniel\Desktop\BucBoard\BucBoard\bin\Release\netcoreapp2.0\BucBoard.dll
+C:\Users\Daniel\Desktop\BucBoard\BucBoard\bin\Release\netcoreapp2.0\BucBoard.pdb
+C:\Users\Daniel\Desktop\BucBoard\BucBoard\obj\Release\netcoreapp2.0\BucBoard.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Desktop\BucBoard\BucBoard\obj\Release\netcoreapp2.0\BucBoard.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Desktop\BucBoard\BucBoard\obj\Release\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\Daniel\Desktop\BucBoard\BucBoard\obj\Release\netcoreapp2.0\BucBoard.AssemblyInfoInputs.cache
+C:\Users\Daniel\Desktop\BucBoard\BucBoard\obj\Release\netcoreapp2.0\BucBoard.AssemblyInfo.cs
+C:\Users\Daniel\Desktop\BucBoard\BucBoard\obj\Release\netcoreapp2.0\BucBoard.dll
+C:\Users\Daniel\Desktop\BucBoard\BucBoard\obj\Release\netcoreapp2.0\BucBoard.pdb
+D:\ETSU\SE2_CSCI-3350\GitHub Stuff\DreamTeam_2.1_Beta\BucBoard\BucBoard\bin\Release\netcoreapp2.0\BucBoard.deps.json
+D:\ETSU\SE2_CSCI-3350\GitHub Stuff\DreamTeam_2.1_Beta\BucBoard\BucBoard\bin\Release\netcoreapp2.0\BucBoard.runtimeconfig.json
+D:\ETSU\SE2_CSCI-3350\GitHub Stuff\DreamTeam_2.1_Beta\BucBoard\BucBoard\bin\Release\netcoreapp2.0\BucBoard.runtimeconfig.dev.json
+D:\ETSU\SE2_CSCI-3350\GitHub Stuff\DreamTeam_2.1_Beta\BucBoard\BucBoard\bin\Release\netcoreapp2.0\BucBoard.dll
+D:\ETSU\SE2_CSCI-3350\GitHub Stuff\DreamTeam_2.1_Beta\BucBoard\BucBoard\bin\Release\netcoreapp2.0\BucBoard.pdb
+D:\ETSU\SE2_CSCI-3350\GitHub Stuff\DreamTeam_2.1_Beta\BucBoard\BucBoard\obj\Release\netcoreapp2.0\BucBoard.csprojResolveAssemblyReference.cache
+D:\ETSU\SE2_CSCI-3350\GitHub Stuff\DreamTeam_2.1_Beta\BucBoard\BucBoard\obj\Release\netcoreapp2.0\BucBoard.csproj.CoreCompileInputs.cache
+D:\ETSU\SE2_CSCI-3350\GitHub Stuff\DreamTeam_2.1_Beta\BucBoard\BucBoard\obj\Release\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+D:\ETSU\SE2_CSCI-3350\GitHub Stuff\DreamTeam_2.1_Beta\BucBoard\BucBoard\obj\Release\netcoreapp2.0\BucBoard.AssemblyInfoInputs.cache
+D:\ETSU\SE2_CSCI-3350\GitHub Stuff\DreamTeam_2.1_Beta\BucBoard\BucBoard\obj\Release\netcoreapp2.0\BucBoard.AssemblyInfo.cs
+D:\ETSU\SE2_CSCI-3350\GitHub Stuff\DreamTeam_2.1_Beta\BucBoard\BucBoard\obj\Release\netcoreapp2.0\BucBoard.dll
+D:\ETSU\SE2_CSCI-3350\GitHub Stuff\DreamTeam_2.1_Beta\BucBoard\BucBoard\obj\Release\netcoreapp2.0\BucBoard.pdb
+C:\GitHub\BucBoard\BucBoard\bin\Release\netcoreapp2.0\BucBoard.deps.json
+C:\GitHub\BucBoard\BucBoard\bin\Release\netcoreapp2.0\BucBoard.runtimeconfig.json
+C:\GitHub\BucBoard\BucBoard\bin\Release\netcoreapp2.0\BucBoard.runtimeconfig.dev.json
+C:\GitHub\BucBoard\BucBoard\bin\Release\netcoreapp2.0\BucBoard.dll
+C:\GitHub\BucBoard\BucBoard\bin\Release\netcoreapp2.0\BucBoard.pdb
+C:\GitHub\BucBoard\BucBoard\obj\Release\netcoreapp2.0\BucBoard.csprojAssemblyReference.cache
+C:\GitHub\BucBoard\BucBoard\obj\Release\netcoreapp2.0\BucBoard.csproj.CoreCompileInputs.cache
+C:\GitHub\BucBoard\BucBoard\obj\Release\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\GitHub\BucBoard\BucBoard\obj\Release\netcoreapp2.0\BucBoard.AssemblyInfoInputs.cache
+C:\GitHub\BucBoard\BucBoard\obj\Release\netcoreapp2.0\BucBoard.AssemblyInfo.cs
+C:\GitHub\BucBoard\BucBoard\obj\Release\netcoreapp2.0\BucBoard.dll
+C:\GitHub\BucBoard\BucBoard\obj\Release\netcoreapp2.0\BucBoard.pdb
