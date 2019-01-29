@@ -26,7 +26,7 @@ namespace BucBoard.Controllers
             var vm = new EmailVM()
             {
                 To = "luserUser5@gmail.com",
-                From = "luserUser5@gmail.com"
+                From = "yourAddress@etsu.edu"
             };
 
             return View(vm);

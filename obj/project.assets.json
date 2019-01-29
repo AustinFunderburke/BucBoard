@@ -13155,23 +13155,29 @@
   },
   "packageFolders": {
     "C:\\Users\\jafun\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
+    "restoreSettings": {
+      "hideWarningsAndErrors": true
+    },
     "restore": {
-      "projectUniqueName": "C:\\GitHub\\BucBoard\\BucBoard\\BucBoard.csproj",
+      "projectUniqueName": "D:\\ETSU\\SE2_CSCI-3350\\GitHub Stuff\\DreamTeam_2.1_Beta\\BucBoard\\BucBoard\\BucBoard.csproj",
       "projectName": "BucBoard",
-      "projectPath": "C:\\GitHub\\BucBoard\\BucBoard\\BucBoard.csproj",
+      "projectPath": "D:\\ETSU\\SE2_CSCI-3350\\GitHub Stuff\\DreamTeam_2.1_Beta\\BucBoard\\BucBoard\\BucBoard.csproj",
       "packagesPath": "C:\\Users\\jafun\\.nuget\\packages\\",
-      "outputPath": "C:\\GitHub\\BucBoard\\BucBoard\\obj\\",
+      "outputPath": "D:\\ETSU\\SE2_CSCI-3350\\GitHub Stuff\\DreamTeam_2.1_Beta\\BucBoard\\BucBoard\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
         "C:\\Users\\jafun\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.Fallback.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.0"
