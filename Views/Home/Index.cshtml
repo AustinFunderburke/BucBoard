@@ -1,0 +1,164 @@
+﻿@model ICollection<BucBoard.Models.Entities.Existing.Announcement>
+@using BucBoard.Models.Entities.Existing
+
+@{
+    ViewData["Title"] = "Home Page";
+    var courseList = (ViewBag.courseList as ICollection<Course>);
+
+    Course[] courses = new Course[courseList.Count];
+    courseList.CopyTo(courses, 0);
+    string courseCode1 = "";
+    int courseNumber1 = 0;
+    string courseCode2 = "";
+    int courseNumber2 = 0;
+    string courseCode3 = "";
+    int courseNumber3 = 0;
+    string courseCode4 = "";
+    int courseNumber4 = 0;
+
+    Announcement[] announcements = new Announcement[Model.Count];
+    Model.CopyTo(announcements, 0);
+    string message1 = "";
+    string message2 = "";
+    string message3 = "";
+    string message4 = "";
+    string message5 = "";
+    string message6 = "";
+    string message7 = "";
+    string message8 = "";
+
+    if (courseList.Count >= 1)
+    {
+        courseCode1 = courses[courses.Length - 1].CourseCode.Trim();
+        courseNumber1 = courses[courses.Length - 1].CourseNumber;
+    }
+
+    if (courseList.Count >= 2)
+    {
+        courseCode2 = courses[courses.Length - 2].CourseCode.Trim();
+        courseNumber2 = courses[courses.Length - 2].CourseNumber;
+    }
+
+    if (courseList.Count >= 3)
+    {
+        courseCode3 = courses[courses.Length - 3].CourseCode.Trim();
+        courseNumber3 = courses[courses.Length - 3].CourseNumber;
+    }
+
+    if (courseList.Count >= 4)
+    {
+        courseCode4 = courses[courses.Length - 4].CourseCode.Trim();
+        courseNumber4 = courses[courses.Length - 4].CourseNumber;
+    }
+
+
+
+
+
+
+
+    if (Model.Count >= 1)
+    {
+        message1 = announcements[announcements.Length - 1].Message;
+    }
+
+    if (Model.Count >= 2)
+    {
+        message2 = announcements[announcements.Length - 2].Message;
+    }
+
+    if (Model.Count >= 3)
+    {
+        message3 = announcements[announcements.Length - 3].Message;
+    }
+
+    if (Model.Count >= 4)
+    {
+        message4 = announcements[announcements.Length - 4].Message;
+    }
+
+    if (Model.Count >= 5)
+    {
+        message5 = announcements[announcements.Length - 5].Message;
+    }
+
+    if (Model.Count >= 6)
+    {
+        message6 = announcements[announcements.Length - 6].Message;
+    }
+
+    if (Model.Count >= 7)
+    {
+        message7 = announcements[announcements.Length - 7].Message;
+    }
+
+    if (Model.Count >= 8)
+    {
+        message8 = announcements[announcements.Length - 8].Message;
+    }
+}
+<!--
+    <div style="background-color:#041e42; color:lightgray;">
+    <div align="center" class="container" style="text-align:center; ">
+        <h1 class="display-2">Announcements</h1>
+        <p class="lead">This is a where the professor's announcements will go.</p>
+    </div>
+</div>
+<div>
+    <h3>Class and Office Hours</h3>
+</div>
+-->
+<link rel="stylesheet" href="css/index.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+<div class="profilepicture">
+    <div>
+        <i class="fa fa-camera-retro" style="font-size:128px;"></i>
+    </div>
+    <div class="schedule">
+        <h3 style="text-align:center;">Schedule</h3>
+        <textarea rows="16" cols="15" style="color:black;">
+@courseCode1 @courseNumber1
+
+@courseCode2 @courseNumber2
+        </textarea>
+    </div>
+</div>
+<div class="actionbuttons">
+    <div>
+        <a asp-action="Create" asp-controller="Email">
+            <i class="fa fa-send-o" style="font-size:128px;"></i>
+        </a>
+            <i class="fa fa-calendar" style="font-size:128px;"></i>
+    </div>
+</div>
+<div class="announcements">
+    <h1 style="text-align:center;">Announcements</h1>
+    <div>
+        <textarea rows="22" cols="95" style="color:black;">
+        @message1
+
+
+        @message2
+
+
+        @message3
+
+        
+        @message4
+
+
+        @message5
+
+
+        @message6
+
+
+        @message7
+
+
+        @message8
+        </textarea>
+    </div>
+    <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+</div>
